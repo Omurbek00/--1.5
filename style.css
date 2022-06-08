@@ -246,6 +246,9 @@ h2 {
     .brand__slider--visible{
         display: inline-block;
     }
+        .button__img--rotate {
+        transform: rotate(180deg);
+    }
 }
 @media(min-width:1120px) {
     .brand__slider {
